@@ -1,5 +1,5 @@
 # **Android app**
-## Here i demonstrate the use of Modern Android development tools - (Kotlin, Architecture Components, MVVM, LiveData, Material Components)
+## Here i demonstrate the use of Modern Android development tools - (Kotlin, Architecture Components, MVVM, LiveData, Material Components) with online and offline mode.
 
 # Screenshots
 
